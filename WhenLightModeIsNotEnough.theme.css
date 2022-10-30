@@ -1,0 +1,21 @@
+/**
+* @name WhenLightModeIsNotEnough
+* @version iscordsplit-config.toowhite.css
+* @description So light that it's unusable!
+* The only method to get rid of this is to delete this file
+* @author GEOEGII555
+*/
+
+:root {
+--mainColor: #ffffff;
+--backgroundColor01: #ffffff;
+--backgroundColor02: #FFFFFFFF;
+--gradientColor01: #FFFFFFFF;
+--gradientColor02: #FFFFFFFF;
+}
+
+* {
+    color: #FFFFFFFF !important;
+    background-color: #FFFFFFFF !important;
+    border: none !important;
+}
